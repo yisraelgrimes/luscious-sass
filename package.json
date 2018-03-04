@@ -1,8 +1,8 @@
 {
 	"name": "luscious-sass",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"description": "A library of SASS mixins, functions, and variables to use in your front-end projects.",
-	"repository": "https://gitlab.com/ignitecreative/cookbook/luscious-sass",
+	"repository": "https://github.com/yisraelgrimes/luscious-sass",
 	"author": "Yisrael Grimes <yisrael@ignitehere.com>",
 	"license": "MIT",
 	"private": true,
