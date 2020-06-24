@@ -1,19 +1,7 @@
+**This repo is no longer used or maintained. For the current version, see the project [here](https://github.com/workwithizzi/luscious)
+
 # Luscious SASS
 *A Library or SASS functions/mixin/variables/stuff*
-
-**Current Version: v0.0.5 on Master branch**
-After testing, Stable version will be released as v1.0.0
-
-
-**A work in progress.**
-Still need to:
-1. A documentation.
-2. A proper README.
-3. Test a few things.
-4. Add a few things.
-5. Make another cup of coffee.
-
-Good luck :)
 
 ---
 
