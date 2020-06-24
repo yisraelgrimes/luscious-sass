@@ -1,4 +1,4 @@
-**This repo is no longer used or maintained. For the current version, see the project [here](https://github.com/workwithizzi/luscious)
+**This repo is no longer used or maintained. For the current version, see the project [here](https://github.com/workwithizzi/luscious)**
 
 # Luscious SASS
 *A Library or SASS functions/mixin/variables/stuff*
